@@ -16,10 +16,10 @@ Example Link
 
 Example link
 
-#CSS & HTML Projects
+# CSS & HTML Projects
 
 Example link
 
 
-#Java Projects
+# Java Projects
 
