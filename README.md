@@ -14,8 +14,7 @@ Example Link
 
 # JS, CSS, & HTML Projects
 
-https://github.com/JacobH123/RSA-Calculator
-
+<a href="https://github.com/JacobH123/RSA-Calculator"> Calculator </a>
 
 # Java Projects
 
