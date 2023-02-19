@@ -10,7 +10,7 @@
 
 <h2>C# Projects:</h2>
 
-<a href="https://github.com/JacobH123/Flappy-Burb> Flabby Burb Game" > </a>
+<a href="https://github.com/JacobH123/Flappy-Burb"> Flappy Burb Game </a>
 
 <h2>JS, CSS, and HTML Projects:</h2>
 
