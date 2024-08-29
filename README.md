@@ -5,7 +5,7 @@
 
 
 <h2>C++ Projects:</h2>
-<a href="https://github.com/JacobH123/Corner_Grocer"> Corner Grocer </a>
+<a href="https://github.com/JacobH123/Binary-Tree"> Binary Search Tree </a>
 
 
 <h2>Python Projects:</h2>
