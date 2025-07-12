@@ -19,8 +19,6 @@
 
 <h2>JS, CSS, and HTML Projects:</h2>
 
-<a href="https://github.com/JacobH123/RSA-Calculator"> Calculator </a>
+<a href="https://github.com/JacobH123/KeyLocker-Web"> Calculator </a>
 
- <h2>Java Projects:</h2>
- 
-Example Link
+
