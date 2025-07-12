@@ -11,14 +11,14 @@
 <h2>Python Projects:</h2>
    
 
-<a href="https://github.com/JacobH123/Castle-Crawler-text-based-game"> Castle Crawler Game </a>
+<a href="https://github.com/JacobH123/AIBlackJack"> AI Blackjack w/ Machine Learning Model</a>
 
 <h2>C# Projects:</h2>
 
-<a href="https://github.com/JacobH123/Flappy-Burb"> Flappy Burb Game </a>
+
 
 <h2>JS, CSS, and HTML Projects:</h2>
 
-<a href="https://github.com/JacobH123/KeyLocker-Web"> Calculator </a>
+<a href="https://github.com/JacobH123/KeyLocker-Web"> KeyLocker </a>
 
 
