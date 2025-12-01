@@ -9,13 +9,10 @@
 <a href="https://github.com/JacobH123/Compilers-Parsers"> Compilers/Parsers </a> <br>
 
 
-<h2>Python Projects:</h2>
+<h2>Machine Learning Projects:</h2>
    
 
 <a href="https://github.com/JacobH123/AIBlackJack"> AI Blackjack w/ Machine Learning Model</a>
-
-<h2>C# Projects:</h2>
-
 
 
 <h2>Full Stack Projects:</h2>
